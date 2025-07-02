@@ -44,10 +44,6 @@ pokedex-javascript/
 └── README.md
 ```
 
-## 📸 Captura de tela
-
-![preview](https://felipebertoli.github.io/pokedex-javascript/assets/preview.png)
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
